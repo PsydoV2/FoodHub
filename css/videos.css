@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Comic+Neue&display=swap');
+
+body{
+    background-color: rgb(25, 25, 25);
+    font-family: 'Comic Neue', cursive;
+
+}
+
+h1{
+    color: white;
+    text-align: center;
+    font-size: 3em;
+}
+
+a{
+    font-size: 0.8em;
+    color: white;
+    text-decoration: none;
+    text-align: left;
+}
+
+.image{
+    width: 20%;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-top: 5%;
+}
+
+span{
+    color: white;
+    width: 20%;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-top: 5%;
+}
